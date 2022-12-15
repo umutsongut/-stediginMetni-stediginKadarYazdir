@@ -10,6 +10,7 @@ namespace İstediginMetniİstediginKadarYazdir
     {
         static void Main(string[] args)
         {
+            //istediğiniz metni istediğiniz kadar yazdırabilmek//
             int i;
             string metin;
             int deneme = 0;
