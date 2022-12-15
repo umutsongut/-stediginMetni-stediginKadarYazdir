@@ -27,6 +27,31 @@ namespace İstediginMetniİstediginKadarYazdir
                 deneme++;
                 Console.WriteLine($"{deneme}.Deneme, {metin}");
             }
+        /*
+        while ile
+        */
+            
+        int k=1;
+            string cumle;
+            int deneme=0;
+            int t;
+
+            Console.Write("Bir Cümle Veya Kelime Giriniz: ");
+            cumle = Console.ReadLine();
+
+            Console.Write("Yukarıda Yazdığınız Tümceyi Kaç Defa Yazdırmak İstersiniz? ");
+            t = Convert.ToInt32(Console.ReadLine());
+
+
+            while (k <= t)
+            {
+                deneme++;
+                System.Threading.Thread.Sleep(250);
+                Console.WriteLine($"{deneme}.Deneme, {cumle}");
+                k++;
+            }
+            Console.Read()
         }
+        
     }
 }
