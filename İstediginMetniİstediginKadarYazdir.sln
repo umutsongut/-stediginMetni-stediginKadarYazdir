@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33027.164
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "İstediginMetniİstediginKadarYazdir", "İstediginMetniİstediginKadarYazdir\İstediginMetniİstediginKadarYazdir.csproj", "{C647EF1D-BCC7-4776-8052-23EDA4C1F837}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C647EF1D-BCC7-4776-8052-23EDA4C1F837}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C647EF1D-BCC7-4776-8052-23EDA4C1F837}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C647EF1D-BCC7-4776-8052-23EDA4C1F837}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C647EF1D-BCC7-4776-8052-23EDA4C1F837}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {91B9E628-8C3A-46CA-B337-F14A6B117450}
+	EndGlobalSection
+EndGlobal
